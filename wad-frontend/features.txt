@@ -1,0 +1,2 @@
+1. Pages: Profile, Feed, Post, Auth, People
+2. Authentication Feature
