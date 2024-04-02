@@ -1,0 +1,6 @@
+@wad_backend_HostAddress = http://localhost:5217
+
+GET {{wad_backend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "hB1SnXumPYeBOJk9RvqLAihtFE1IA7UVSP9xHyQTmZo=",
+  "Source": "wad-backend",
+  "BasePath": "_content/wad-backend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
